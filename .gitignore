@@ -15,3 +15,4 @@ Thumbs.db
 # Для хранения секретов (например, паролей WiFi)
 arduino_secrets.h
 credentials.h
+.gitignore
